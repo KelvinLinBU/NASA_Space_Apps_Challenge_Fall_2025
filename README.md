@@ -34,5 +34,3 @@ This moves from **maps to delivery** by producing **realistic, fundable** action
 ## Data sources
 - **NASA SEDAC/CIESIN**: Natural Resource Protection and Child Health Indicators (2010–2022).
 - **Our World in Data**: Population and urban share (latest available).
-
-*Replace unit costs and service ratios with local values for best results.*

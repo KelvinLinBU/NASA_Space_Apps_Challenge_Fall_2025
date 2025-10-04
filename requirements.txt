@@ -4,3 +4,5 @@ seaborn
 numpy
 scikit-learn
 ipykernel
+umap
+reqeusts

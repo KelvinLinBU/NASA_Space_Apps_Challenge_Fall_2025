@@ -1,0 +1,196 @@
+Country_Territory_Island,WAT_latest,SAN_latest,CMR_latest,Need_Score_0to1,Policy_Bucket,ISO3V10,Pop_total,Urban_pct,Pop_urban_est
+Niger,48.9,16.41,59.17,0.884,Type B: Basic Services First,NER,26159863.0,17.232,4507868
+Central African Republic,36.3,13.85,26.49,0.862,Type B: Basic Services First,CAF,5152415.0,44.13,2273761
+Democratic Republic of the Congo,35.12,16.17,17.69,0.829,Type B: Basic Services First,COD,105789733.0,48.055,50837256
+Chad,52.0,12.92,43.92,0.828,Type B: Basic Services First,TCD,19319075.0,24.691,4770073
+Burkina Faso,49.51,24.76,32.52,0.753,Type B: Basic Services First,BFA,23025777.0,33.166,7636729
+Ethiopia,51.51,9.34,12.98,0.743,Type B: Basic Services First,ETH,128691695.0,23.661,30449742
+Madagascar,53.47,14.75,21.73,0.736,Type B: Basic Services First,MDG,31195937.0,41.231,12862397
+Eritrea,51.85,11.94,9.41,0.717,Type B: Basic Services First,ERI,3470391.0,43.911,1523883
+Papua New Guinea,50.24,19.3,8.67,0.692,Type B: Basic Services First,PNG,10389638.0,13.88,1442082
+Somalia,58.26,40.58,43.77,0.667,Type B: Basic Services First,SOM,18358622.0,48.519,8907420
+Benin,67.36,19.49,30.01,0.658,Type B: Basic Services First,BEN,14111035.0,50.669,7149920
+Sierra Leone,65.34,22.92,28.68,0.651,Type B: Basic Services First,SLE,8460523.0,44.779,3788538
+Guinea-Bissau,61.78,27.84,25.62,0.64,Type B: Basic Services First,GNB,2153343.0,45.893,988234
+Uganda,59.26,21.01,11.31,0.638,Type B: Basic Services First,UGA,48656606.0,27.389,13326558
+Guinea,71.45,31.27,37.33,0.605,Type B: Basic Services First,GIN,14405469.0,38.517,5548554
+Togo,70.99,19.2,20.12,0.603,Type B: Basic Services First,TGO,9304346.0,45.064,4192910
+Tanzania,60.79,30.62,13.46,0.593,Type B: Basic Services First,TZA,66617607.0,38.136,25405291
+Zimbabwe,62.29,34.62,14.32,0.569,Type B: Basic Services First,ZWE,16340829.0,32.67,5338549
+Mozambique,63.2,37.38,19.56,0.569,Type B: Basic Services First,MOZ,33635163.0,39.326,13227364
+Liberia,75.61,22.52,20.48,0.561,Type B: Basic Services First,LBR,5493035.0,54.077,2970469
+Sudan,64.92,36.89,16.59,0.551,Type B: Basic Services First,SDN,50042800.0,36.752,18391730
+Angola,57.72,52.18,23.36,0.55,Type B: Basic Services First,AGO,36749909.0,69.281,25460704
+Congo,73.97,20.55,11.35,0.549,Type C: Service Quality & Risk Control,COG,6182890.0,69.638,4305641
+Kenya,62.86,36.53,9.43,0.541,Type B: Basic Services First,KEN,55339007.0,30.049,16628818
+Zambia,68.25,36.3,18.23,0.538,Type B: Basic Services First,ZMB,20723967.0,46.914,9722442
+Burundi,62.44,45.69,15.56,0.524,Type B: Basic Services First,BDI,13689455.0,15.16,2075321
+Haiti,67.42,37.48,13.85,0.523,Type B: Basic Services First,HTI,11637402.0,60.472,7037370
+Cameroon,69.59,43.12,23.96,0.519,Type B: Basic Services First,CMR,28372690.0,59.892,16992971
+Cote d'Ivoire,72.85,36.96,20.05,0.513,Type B: Basic Services First,CIV,31165653.0,53.644,16718503
+Nigeria,79.64,46.57,43.29,0.507,Type B: Basic Services First,NGA,227882949.0,55.03,125403987
+Solomon Islands,67.45,35.02,2.74,0.496,Type B: Basic Services First,SLB,800014.0,26.488,211908
+Yemen,61.76,54.84,16.11,0.489,Type B: Basic Services First,YEM,39390800.0,40.477,15944214
+Mali,83.65,50.21,37.76,0.448,Type B: Basic Services First,MLI,23769130.0,46.934,11155803
+Comoros,80.21,35.91,10.85,0.441,Type C: Service Quality & Risk Control,COM,850390.0,30.418,258672
+Lesotho,73.97,50.28,16.93,0.437,Type B: Basic Services First,LSO,2311476.0,30.897,714177
+Equatorial Guinea,64.67,66.31,20.77,0.436,Type B: Basic Services First,GNQ,1847556.0,74.874,1383339
+Malawi,71.87,49.24,11.0,0.434,Type C: Service Quality & Risk Control,MWI,21104480.0,18.598,3925011
+Kiribati,75.69,45.18,10.37,0.426,Type C: Service Quality & Risk Control,KIR,132540.0,58.448,77467
+Ghana,88.37,28.58,11.78,0.426,Type C: Service Quality & Risk Control,GHA,33787916.0,59.854,20223419
+Namibia,85.91,35.84,9.95,0.403,Type C: Service Quality & Risk Control,NAM,2963102.0,55.795,1653263
+Sao Tome and Principe,77.34,47.84,3.33,0.381,Type C: Service Quality & Risk Control,STP,230882.0,77.014,177811
+Gambia,85.65,47.72,14.37,0.367,Type C: Service Quality & Risk Control,GMB,2697846.0,65.08,1755758
+Rwanda,65.1,73.83,10.09,0.364,Type C: Service Quality & Risk Control,RWA,13954473.0,18.081,2523108
+Mauritania,77.81,55.93,8.57,0.36,Type C: Service Quality & Risk Control,MRT,5022442.0,58.458,2936019
+Eswatini,73.47,64.42,11.62,0.36,Type C: Service Quality & Risk Control,SWZ,1230507.0,25.013,307787
+Afghanistan,82.18,55.95,12.82,0.347,Type C: Service Quality & Risk Control,AFG,41454762.0,27.265,11302641
+Gabon,86.93,49.9,10.7,0.337,Type C: Service Quality & Risk Control,GAB,2484790.0,91.307,2268787
+Djibouti,76.17,66.91,8.69,0.322,Type C: Service Quality & Risk Control,DJI,1152951.0,78.732,907741
+Vanuatu,91.34,46.71,3.57,0.3,Type C: Service Quality & Risk Control,VUT,320422.0,26.147,83781
+Senegal,86.25,60.18,9.75,0.293,Type C: Service Quality & Risk Control,SEN,18077573.0,50.08,9053249
+Timor-Leste,87.02,58.38,7.81,0.29,Type C: Service Quality & Risk Control,TLS,1384292.0,32.842,454629
+Myanmar,82.38,74.13,8.37,0.251,Type C: Service Quality & Risk Control,MMR,54133800.0,32.47,17577245
+Cambodia,78.01,76.72,3.58,0.25,Type C: Service Quality & Risk Control,KHM,17423884.0,26.035,4536308
+Mongolia,83.51,69.96,2.08,0.241,Type C: Service Quality & Risk Control,MNG,3431938.0,69.263,2377063
+Nicaragua,81.71,73.02,1.87,0.238,Type C: Service Quality & Risk Control,NIC,6823619.0,60.155,4104748
+Pakistan,90.63,70.53,11.14,0.225,Type C: Service Quality & Risk Control,PAK,247504505.0,38.365,94955103
+Lao People's Democratic Republic,85.46,79.51,8.58,0.209,Type C: Service Quality & Risk Control,LAO,7665001.0,38.906,2982145
+Bangladesh,98.1,59.3,4.47,0.206,Type C: Service Quality & Risk Control,BGD,171466986.0,41.23,70695838
+Marshall Islands,85.06,81.46,5.05,0.191,Type A: Maintain & Climate-proof,MHL,38849.0,79.208,30772
+Bolivia,94.11,68.61,4.6,0.19,Type C: Service Quality & Risk Control,BOL,12244161.0,71.545,8760085
+Nauru,97.0,65.93,4.55,0.184,Type C: Service Quality & Risk Control,NRU,11900.0,100.0,11900
+Guatemala,94.62,69.62,3.53,0.179,Type C: Service Quality & Risk Control,GTM,18124841.0,53.542,9704402
+Nepal,91.24,80.39,4.44,0.155,Type A: Maintain & Climate-proof,NPL,29694614.0,22.366,6641497
+South Africa,94.49,77.63,6.59,0.155,Type C: Service Quality & Risk Control,ZAF,63212386.0,69.298,43804919
+Botswana,92.57,80.55,6.75,0.154,Type A: Maintain & Climate-proof,BWA,2480242.0,73.49,1822730
+India,93.3,78.39,5.27,0.154,Type C: Service Quality & Risk Control,IND,1438069597.0,36.867,530173118
+Morocco,87.02,87.52,2.61,0.144,Type A: Maintain & Climate-proof,MAR,37712516.0,65.643,24755627
+Cabo Verde,89.87,83.05,1.91,0.143,Type A: Maintain & Climate-proof,CPV,522335.0,68.412,357340
+Tajikistan,81.94,96.75,3.89,0.138,Type C: Service Quality & Risk Control,TJK,10389807.0,28.523,2963485
+Peru,94.81,78.46,3.2,0.137,Type C: Service Quality & Risk Control,PER,33845616.0,79.139,26785082
+Dominica,95.42,80.37,4.0,0.128,Type A: Maintain & Climate-proof,DMA,66531.0,72.312,48110
+Democratic People's Republic of Korea,93.89,84.77,5.33,0.123,Type A: Maintain & Climate-proof,PRK,26418196.0,63.503,16776347
+Republic of Moldova,92.02,84.91,2.0,0.122,Type A: Maintain & Climate-proof,MDA,3067072.0,43.599,1337213
+Jamaica,91.1,86.55,1.75,0.12,Type A: Maintain & Climate-proof,JAM,2839785.0,57.762,1640317
+Philippines,94.88,84.76,5.38,0.117,Type A: Maintain & Climate-proof,PHL,114891199.0,48.614,55853207
+Bhutan,99.13,77.94,4.33,0.117,Type C: Service Quality & Risk Control,BTN,786386.0,45.0,353874
+Micronesia (Federated States of),90.11,90.45,3.92,0.116,Type A: Maintain & Climate-proof,FSM,112646.0,23.555,26534
+Algeria,94.66,85.83,3.24,0.106,Type A: Maintain & Climate-proof,DZA,46164222.0,75.748,34968475
+Honduras,95.8,84.4,2.36,0.102,Type A: Maintain & Climate-proof,HND,10644853.0,60.818,6473987
+Panama,94.65,85.88,1.95,0.102,Type A: Maintain & Climate-proof,PAN,4458758.0,69.888,3116137
+Saint Lucia,96.89,83.36,2.44,0.1,Type A: Maintain & Climate-proof,LCA,179291.0,19.306,34614
+Indonesia,94.11,88.16,3.35,0.1,Type A: Maintain & Climate-proof,IDN,281190068.0,59.204,166475768
+Georgia,94.98,86.26,1.06,0.095,Type A: Maintain & Climate-proof,GEO,3807494.0,61.162,2328739
+Sri Lanka,89.31,95.09,0.98,0.091,Type A: Maintain & Climate-proof,LKA,22971615.0,19.416,4460169
+Dominican Republic,96.75,88.68,5.87,0.089,Type A: Maintain & Climate-proof,DOM,11331269.0,85.011,9632825
+Tuvalu,99.26,83.55,3.19,0.088,Type A: Maintain & Climate-proof,TUV,9837.0,66.928,6584
+Guyana,95.86,90.99,4.56,0.08,Type A: Maintain & Climate-proof,GUY,826357.0,27.316,225728
+Fiji,95.49,93.04,4.58,0.074,Type A: Maintain & Climate-proof,FJI,924150.0,59.192,547023
+Ireland,95.99,89.25,0.4,0.073,Type A: Maintain & Climate-proof,IRL,5196629.0,64.76,3365337
+Kyrgyzstan,90.8,97.86,1.88,0.072,Type A: Maintain & Climate-proof,KGZ,7073523.0,38.166,2699681
+Syrian Arab Republic,94.08,94.98,3.91,0.072,Type A: Maintain & Climate-proof,SYR,23594623.0,58.044,13695263
+Cuba,94.65,92.15,1.01,0.071,Type A: Maintain & Climate-proof,CUB,11019932.0,77.657,8557749
+Bulgaria,99.06,86.06,1.06,0.071,Type A: Maintain & Climate-proof,BGR,6795805.0,77.037,5235284
+Grenada,95.63,91.49,1.79,0.07,Type A: Maintain & Climate-proof,GRD,117094.0,37.267,43637
+El Salvador,98.59,87.55,1.75,0.069,Type A: Maintain & Climate-proof,SLV,6309629.0,75.996,4795066
+Cook Islands,99.97,85.44,1.04,0.068,Type A: Maintain & Climate-proof,COK,14244.0,,0
+Russian Federation,97.05,89.42,0.99,0.068,Type A: Maintain & Climate-proof,RUS,145440502.0,75.548,109877390
+Belize,98.41,88.25,1.59,0.067,Type A: Maintain & Climate-proof,BLZ,411112.0,46.838,192557
+Poland,90.37,98.96,0.62,0.066,Type A: Maintain & Climate-proof,POL,38762847.0,60.33,23385626
+Ecuador,95.7,92.27,1.76,0.066,Type A: Maintain & Climate-proof,ECU,17980079.0,65.029,11692266
+Suriname,97.99,89.97,1.85,0.063,Type A: Maintain & Climate-proof,SUR,628892.0,66.533,418421
+Saint Vincent and the Grenadines,97.73,89.7,1.16,0.063,Type A: Maintain & Climate-proof,VCT,101331.0,54.725,55453
+Montserrat,98.08,89.1,0.77,0.062,Type A: Maintain & Climate-proof,MSR,4440.0,,0
+Iran,97.69,90.36,1.78,0.062,Type A: Maintain & Climate-proof,IRN,90608708.0,77.698,70401154
+Viet Nam,97.96,92.17,4.24,0.061,Type A: Maintain & Climate-proof,VNM,100352189.0,40.195,40336562
+Venezuela,93.33,98.4,3.23,0.059,Type A: Maintain & Climate-proof,VEN,28300861.0,88.505,25047677
+Romania,100.0,88.28,1.17,0.055,Type A: Maintain & Climate-proof,ROU,19118482.0,54.88,10492223
+Oman,92.44,99.32,1.46,0.054,Type A: Maintain & Climate-proof,OMN,5049267.0,88.998,4493747
+Ukraine,93.59,97.75,1.19,0.053,Type A: Maintain & Climate-proof,UKR,37732833.0,70.284,26520144
+Lebanon,92.6,99.2,1.2,0.053,Type A: Maintain & Climate-proof,LBN,5773494.0,89.603,5173224
+Brazil,99.59,90.88,1.56,0.048,Type A: Maintain & Climate-proof,BRA,211140731.0,88.016,185837626
+Bosnia and Herzegovina,96.09,95.39,0.76,0.047,Type A: Maintain & Climate-proof,BIH,3185072.0,50.708,1615086
+Colombia,97.54,94.73,1.81,0.044,Type A: Maintain & Climate-proof,COL,52321152.0,82.652,43244479
+Niue,97.01,97.43,3.77,0.042,Type A: Maintain & Climate-proof,NIU,1841.0,,0
+Latvia,98.89,92.44,0.52,0.042,Type A: Maintain & Climate-proof,LVA,1882399.0,68.815,1295373
+Uzbekistan,96.62,96.31,1.52,0.042,Type A: Maintain & Climate-proof,UZB,35652311.0,50.626,18049339
+Kazakhstan,95.44,97.86,1.14,0.041,Type A: Maintain & Climate-proof,KAZ,20330109.0,58.387,11870141
+Mexico,99.71,92.52,1.86,0.041,Type A: Maintain & Climate-proof,MEX,129739761.0,81.862,106207563
+Libya,99.89,92.11,1.56,0.04,Type A: Maintain & Climate-proof,LBY,7305659.0,81.907,5983846
+Trinidad and Tobago,98.88,93.92,1.76,0.039,Type A: Maintain & Climate-proof,TTO,1502938.0,53.562,805004
+Malaysia,97.16,96.0,1.1,0.039,Type A: Maintain & Climate-proof,MYS,35126295.0,79.201,27820377
+China,97.65,95.89,1.89,0.039,Type A: Maintain & Climate-proof,CHN,1422584930.0,65.544,932419067
+Saint Kitts and Nevis,98.61,94.95,2.34,0.038,Type A: Maintain & Climate-proof,KNA,46783.0,31.221,14606
+Serbia,95.68,97.91,0.75,0.038,Type A: Maintain & Climate-proof,SRB,6773204.0,57.371,3885855
+Azerbaijan,97.64,96.13,2.01,0.038,Type A: Maintain & Climate-proof,AZE,10318209.0,57.997,5984252
+Albania,95.09,99.3,1.05,0.037,Type A: Maintain & Climate-proof,ALB,2811660.0,65.38,1838263
+Tunisia,97.18,97.44,2.32,0.036,Type A: Maintain & Climate-proof,TUN,12200434.0,70.88,8647668
+Paraguay,99.6,94.57,2.63,0.035,Type A: Maintain & Climate-proof,PRY,6844150.0,63.489,4345282
+Bahamas,98.89,94.93,1.77,0.035,Type A: Maintain & Climate-proof,BHS,399452.0,83.764,334597
+Lithuania,98.04,95.31,0.6,0.034,Type A: Maintain & Climate-proof,LTU,2854104.0,68.936,1967505
+Tonga,98.81,95.3,1.58,0.033,Type A: Maintain & Climate-proof,TON,104613.0,23.21,24281
+Argentina,99.04,94.82,0.77,0.031,Type A: Maintain & Climate-proof,ARG,45538402.0,92.579,42158997
+Armenia,99.97,93.98,1.19,0.03,Type A: Maintain & Climate-proof,ARM,2943398.0,63.929,1881685
+Anguilla,97.48,96.7,0.13,0.03,Type A: Maintain & Climate-proof,AIA,14435.0,,0
+Iraq,98.38,98.5,3.85,0.029,Type A: Maintain & Climate-proof,IRQ,45074055.0,71.853,32387061
+Seychelles,96.42,100.0,1.96,0.028,Type A: Maintain & Climate-proof,SYC,127961.0,59.242,75807
+Egypt,98.77,97.53,2.77,0.027,Type A: Maintain & Climate-proof,EGY,114535772.0,43.258,49545884
+Jordan,98.97,97.14,2.06,0.026,Type A: Maintain & Climate-proof,JOR,11439220.0,92.206,10547647
+Turkey,97.03,99.25,1.3,0.026,Type A: Maintain & Climate-proof,TUR,87270502.0,77.893,67977612
+Antigua and Barbuda,98.36,97.4,0.99,0.025,Type A: Maintain & Climate-proof,ATG,93331.0,24.338,22715
+Mauritius,100.0,95.46,1.32,0.024,Type A: Maintain & Climate-proof,MUS,1273591.0,40.944,521459
+Samoa,99.04,97.93,2.38,0.023,Type A: Maintain & Climate-proof,WSM,216673.0,17.42,37744
+North Macedonia,97.84,98.98,0.66,0.02,Type A: Maintain & Climate-proof,MKD,1831800.0,59.868,1096662
+Barbados,98.51,98.09,0.87,0.02,Type A: Maintain & Climate-proof,BRB,282347.0,31.548,89075
+Turkmenistan,100.0,99.82,5.8,0.02,Type A: Maintain & Climate-proof,TKM,7364437.0,54.524,4015386
+Palestine,98.44,99.44,2.09,0.019,Type A: Maintain & Climate-proof,PSE,5409201.0,77.877,4212523
+Montenegro,98.86,97.81,0.36,0.018,Type A: Maintain & Climate-proof,MNE,633553.0,68.84,436138
+British Virgin Islands,99.86,96.86,0.55,0.016,Type A: Maintain & Climate-proof,VGB,39009.0,50.171,19571
+Slovakia,99.79,97.54,1.01,0.015,Type A: Maintain & Climate-proof,SVK,5518057.0,54.172,2989242
+Canada,99.22,98.59,0.62,0.013,Type A: Maintain & Climate-proof,CAN,39299098.0,81.98,32217401
+Luxembourg,99.89,97.59,0.5,0.013,Type A: Maintain & Climate-proof,LUX,665101.0,92.266,613662
+Costa Rica,99.81,98.38,1.41,0.013,Type A: Maintain & Climate-proof,CRI,5105526.0,83.167,4246113
+Uruguay,99.51,98.32,0.83,0.013,Type A: Maintain & Climate-proof,URY,3388083.0,95.852,3247545
+Netherlands,100.0,97.67,0.55,0.012,Type A: Maintain & Climate-proof,NLD,18092526.0,93.453,16908008
+Slovenia,99.5,98.31,0.42,0.012,Type A: Maintain & Climate-proof,SVN,2118394.0,56.438,1195579
+Hungary,100.0,97.98,0.69,0.011,Type A: Maintain & Climate-proof,HUN,9686465.0,73.179,7088458
+Norway,100.0,98.05,0.4,0.01,Type A: Maintain & Climate-proof,NOR,5519167.0,84.318,4653651
+Palau,99.57,99.02,1.14,0.01,Type A: Maintain & Climate-proof,PLW,17751.0,82.839,14705
+Brunei Darussalam,99.9,99.48,1.86,0.009,Type A: Maintain & Climate-proof,BRN,458959.0,79.439,364592
+Belarus,99.18,99.56,0.68,0.009,Type A: Maintain & Climate-proof,BLR,9115679.0,81.125,7395095
+France,100.0,98.65,0.91,0.009,Type A: Maintain & Climate-proof,FRA,66438828.0,82.044,54509072
+Thailand,100.0,99.02,1.2,0.008,Type A: Maintain & Climate-proof,THA,71702436.0,54.32,38948763
+Portugal,99.26,99.66,0.56,0.008,Type A: Maintain & Climate-proof,PRT,10430735.0,68.423,7137022
+Sweden,99.74,98.86,0.45,0.008,Type A: Maintain & Climate-proof,SWE,10551493.0,88.976,9388296
+Japan,99.14,99.94,0.57,0.007,Type A: Maintain & Climate-proof,JPN,124370947.0,92.134,114587928
+Maldives,99.56,99.7,0.87,0.007,Type A: Maintain & Climate-proof,MDV,526009.0,42.407,223065
+United Arab Emirates,100.0,99.09,0.93,0.007,Type A: Maintain & Climate-proof,ARE,10642089.0,88.008,9365890
+Iceland,100.0,98.78,0.54,0.007,Type A: Maintain & Climate-proof,ISL,387559.0,94.094,364670
+Monaco,100.0,100.0,1.96,0.006,Type A: Maintain & Climate-proof,MCO,38979.0,100.0,38979
+Czechia,99.88,99.14,0.55,0.006,Type A: Maintain & Climate-proof,CZE,10809722.0,74.738,8078970
+Greece,100.0,99.0,0.45,0.006,Type A: Maintain & Climate-proof,GRC,10242910.0,80.984,8295118
+Estonia,100.0,99.06,0.45,0.005,Type A: Maintain & Climate-proof,EST,1367195.0,70.019,957296
+United Kingdom,100.0,99.1,0.54,0.005,Type A: Maintain & Climate-proof,GBR,68682965.0,84.884,58300848
+Germany,100.0,99.23,0.54,0.005,Type A: Maintain & Climate-proof,DEU,84548233.0,77.895,65858846
+Cyprus,99.77,99.4,0.5,0.005,Type A: Maintain & Climate-proof,CYP,1344981.0,67.082,902240
+United States of America,99.96,99.63,0.89,0.005,Type A: Maintain & Climate-proof,USA,343477330.0,83.515,286855092
+Kuwait,100.0,100.0,1.27,0.004,Type A: Maintain & Climate-proof,KWT,4838781.0,100.0,4838781
+Bahrain,99.92,100.0,1.01,0.004,Type A: Maintain & Climate-proof,BHR,1569674.0,89.999,1412691
+Belgium,100.0,99.49,0.72,0.004,Type A: Maintain & Climate-proof,BEL,11712891.0,98.224,11504870
+Qatar,99.99,99.94,0.77,0.003,Type A: Maintain & Climate-proof,QAT,2979086.0,99.387,2960824
+Finland,100.0,99.45,0.39,0.003,Type A: Maintain & Climate-proof,FIN,5601185.0,85.872,4809850
+Chile,100.0,100.0,0.94,0.003,Type A: Maintain & Climate-proof,CHL,19658833.0,88.116,17322577
+Denmark,100.0,99.6,0.48,0.003,Type A: Maintain & Climate-proof,DNK,5948134.0,88.626,5271593
+Israel,100.0,99.92,0.67,0.002,Type A: Maintain & Climate-proof,ISR,9256311.0,92.946,8603371
+Italy,99.92,99.89,0.39,0.002,Type A: Maintain & Climate-proof,ITA,59499452.0,72.292,43013344
+New Zealand,100.0,100.0,0.79,0.002,Type A: Maintain & Climate-proof,NZL,5172837.0,87.091,4505075
+Austria,100.0,99.97,0.67,0.002,Type A: Maintain & Climate-proof,AUT,9130434.0,59.819,5461734
+Australia,99.97,100.0,0.56,0.002,Type A: Maintain & Climate-proof,AUS,26451126.0,86.75,22946352
+Malta,100.0,99.96,0.75,0.002,Type A: Maintain & Climate-proof,MLT,532964.0,95.006,506348
+Spain,99.93,99.92,0.49,0.002,Type A: Maintain & Climate-proof,ESP,47911583.0,81.802,39192633
+Switzerland,100.0,99.9,0.45,0.002,Type A: Maintain & Climate-proof,CHE,8870564.0,74.327,6593224
+Republic of Korea,100.0,99.82,0.42,0.002,Type A: Maintain & Climate-proof,KOR,51748744.0,81.498,42174191
+Singapore,100.0,100.0,0.36,0.001,Type A: Maintain & Climate-proof,SGP,5789092.0,100.0,5789092
+Andorra,100.0,100.0,0.11,-0.0,Type A: Maintain & Climate-proof,AND,80869.0,87.747,70960
+San Marino,100.0,100.0,0.19,0.0,Type A: Maintain & Climate-proof,SMR,33761.0,97.932,33063
